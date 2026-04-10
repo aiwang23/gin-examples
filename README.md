@@ -3,6 +3,7 @@
 3. `group-routes`
 4. `upload-file`
 5. `graceful-shutdown`
+---
 
 1. `basic`
 2. `form-binding`
@@ -15,7 +16,7 @@
 9. `graceful-shutdown`
 10. `websocket`
 
-
+---
 1. `basic`
 2. `form-binding`
 3. `file-binding`
@@ -32,6 +33,7 @@
 14. `server-sent-event`
 15. `ratelimiter`
 
+---
 1. `basic`
 2. `form-binding`
 3. `file-binding`
