@@ -1,14 +1,55 @@
-# Gin Examples
+1. `basic`
+2. `form-binding`
+3. `group-routes`
+4. `upload-file`
+5. `graceful-shutdown`
 
-[![Trivy Security Scan](https://github.com/gin-gonic/examples/actions/workflows/trivy-scan.yml/badge.svg)](https://github.com/gin-gonic/examples/actions/workflows/trivy-scan.yml)
-[![golangci-lint](https://github.com/gin-gonic/examples/actions/workflows/golangci-lint.yml/badge.svg)](https://github.com/gin-gonic/examples/actions/workflows/golangci-lint.yml)
+1. `basic`
+2. `form-binding`
+3. `file-binding`
+4. `group-routes`
+5. `versioning`
+6. `upload-file`
+7. `cookie`
+8. `cors-middleware`
+9. `graceful-shutdown`
+10. `websocket`
 
-This repository contains a number of ready-to-run examples demonstrating various use cases of [Gin](https://github.com/gin-gonic/gin).
 
-Refer to the [Gin documentation](https://gin-gonic.com/en/docs/) for how to execute the example tutorials.
+1. `basic`
+2. `form-binding`
+3. `file-binding`
+4. `group-routes`
+5. `versioning`
+6. `upload-file`
+7. `cookie`
+8. `custom-validation`
+9. `struct-lvl-validations`
+10. `cors-middleware`
+11. `graceful-shutdown`
+12. `template`
+13. `websocket`
+14. `server-sent-event`
+15. `ratelimiter`
 
-## Contributing
+1. `basic`
+2. `form-binding`
+3. `file-binding`
+4. `group-routes`
+5. `versioning`
+6. `upload-file`
+7. `cookie`
+8. `custom-validation`
+9. `struct-lvl-validations`
+10. `cors-middleware`
+11. `graceful-shutdown`
+12. `template`
+13. `server-sent-event`
+14. `send_chunked_data`
+15. `websocket`
+16. `realtime-chat`
+17. `realtime-advanced`
+18. `ratelimiter`
+19. `reverse-proxy`
+20. `multiple-service`
 
-Are you missing an example? Please feel free to open an issue or commit one pull request.
-
-Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for instructions on how to contribute.
