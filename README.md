@@ -1,4 +1,5 @@
 # gin-examples
+[中文](README_CN.md)
 
 A personal learning path for Gin, based on the official [`gin-gonic/examples`](https://github.com/gin-gonic/examples) repository.
 
